@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyMaps</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Group "Google Maps Menu" -->
+    <string name="menu_map_mode">Map Mode</string>
+    <string name="menu_map_mode_normal">Map</string>
+    <string name="menu_map_mode_satellite">Satellite</string>
+    <string name="menu_map_mode_terrain">Terrain</string>
+    <string name="menu_map_traffic">Traffic</string>
+    <string name="menu_map_location">My Location</string>
+    <string name="menu_map_point_new">Add Point</string>
+
+    <!-- Group "Settings" -->
+    <string name="act_settings">Settings</string>
+
+    <!-- Activity ActMain resources -->
+
+    <!-- UI components  -->
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Options Menu -->
+    <string name="act_main_menu_any">Any</string>
+</resources>
